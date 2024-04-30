@@ -2,7 +2,7 @@ body {
     font-family: 'Playfair Display', serif;
     margin: 0;
     padding: 0;
-    background-color: #f3f3f3;
+    background-color: #ffecd9;
 }
 
 h2, h3 {
@@ -21,7 +21,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #fff;
+    background-color: #ffccbb;
     color: #fff;
     padding: 10px 20px;
 }
@@ -68,8 +68,7 @@ nav ul {
   
 #splash {
     display: flex;
-    flex-direction: row-reverse; 
-    align-items: center;
+    margin-top: 2rem;
   }
 
   .prototype-name-container {
@@ -77,19 +76,32 @@ nav ul {
     text-align: center; 
     order: -1
   }
-  
+
   .image-container {
-    width: 45%;
-    margin-right: 2rem; 
+    margin-right: 1.5rem;
   }
   
   .image-container img {
-    width: 100%;
+    max-height: 28rem;
+    margin-right: -20px;
   }
-  
+
+  .prototype-screen:hover {
+    transform: scale(1.2);
+    transition: transform 0.3s ease;
+    z-index: 1;
+  }
+
+  .prototype-screen {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+  }
+
   .slogan-container {
-    width: 45%;
+    width: 40%;
     text-align: center;
+    margin-top: 7rem;
   }
   
   .slogan-container h2 {
@@ -121,10 +133,40 @@ hr {
     margin-right: auto;
 }
 
+.team-member h3 {
+    font-size: 22px;
+    margin-bottom: 5px;
+    font-weight: normal;
+}
+
+.team-member h3 a {
+    color: #26304B; 
+    text-decoration: none;
+  }
+
+  .blurb-container {
+    margin-top: 10px; 
+    display: flex; 
+    flex-direction: column; 
+  }
+
+  .blurb {
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+    font-size: 14px; 
+    margin-right:20rem;
+  }
+
 .team-container {
     display: flex; 
     flex-wrap: wrap; 
     justify-content: center;
+}
+
+.linkedin-link {
+    display: inline-block;
+    margin-left: 10px;
 }
   
 .team-member {
@@ -149,17 +191,58 @@ hr {
   
 .team-member div {
     text-align: left;
+   
 }
-  
-.team-container > .team-member:nth-child(n+4) {  
-    flex: 1; 
-    margin: 0 10px;  
+
+.bottom1 {
+    margin-left: 20rem;
 }
-  
-.team-container > .team-member:nth-child(n+4):nth-child(odd) {  
-    margin-left: auto; 
+
+.bottom2 {
+    margin-right:auto;
 }
-  
-.team-container > .team-member:nth-child(n+4):nth-child(even) {  
-    margin-right: auto; 
+
+.role-pills {
+    display: flex;
+    gap: 5px;
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .role-pills li {
+    background-color: #702417;
+    color: #fff;
+    padding: 3px 8px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 12px;
+  }
+
+  .role-pills li.active {
+    background-color: #702417;
+  }
+
+  .team-container-about{
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center;
 }
+
+.member-image-container-about{
+    overflow: hidden;
+    width: 100px; 
+    height: 100px; 
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.about{
+    width: 200%; 
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+

@@ -19,3 +19,20 @@ We conducted surveys of target users regarding their language learning motivatio
 # Design and Testing Process:
 We created the user personas based off of our initial user research. 
 We conducted usability testing on the mid-fidelity and high fidelity prototypes. 
+
+Our research and design process informed the prototyping of the following key features:
+1. Secure Onboarding
+   - User verification through 2FA
+   - Customizable avatars for users
+   - Community guidelines
+     
+2. Verified User Matching
+   - Users must approve lingua-link matches
+   - Only approved matches can engage in conversation/chatting with each other
+   - AI content and chat moderation
+   - Flagging and blocking users for inappropriate behaviors
+     
+3. Personalized Language Learning
+   - Users can practice lessons together
+   - Customizable games and interactive lessons
+   - Interactive progress tracking 

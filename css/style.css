@@ -155,7 +155,7 @@ hr {
     border-radius: 5px;
     margin-top: 5px;
     font-size: 14px; 
-    margin-right:20rem;
+    margin-right:5rem;
   }
 
 .team-container {
@@ -212,7 +212,7 @@ hr {
   .role-pills li {
     background-color: #702417;
     color: #fff;
-    padding: 3px 8px;
+    padding: 3px 8px; 
     border-radius: 15px;
     cursor: pointer;
     font-size: 12px;
@@ -226,24 +226,23 @@ hr {
     display: flex; 
     flex-wrap: wrap; 
     justify-content: center;
-    margin-left: 4rem;
+    margin-left: 7rem;
 }
 
 
 .member-image-container-about {
-  overflow: hidden;
-  width: 100px; 
-  height: 100px; 
+  overflow: hidden; 
+  width: 500px;
   border-radius: 50%;
-  margin-right: 20px;
+  margin-right: 2rem;
 }
 
-.about{
-    width: 200%; 
+ .about{
+    width: 50%; 
     margin-bottom: 20px;
     display: flex;
     align-items: center;
-}
+} 
 
 #overview {
   text-align: center;
@@ -268,7 +267,8 @@ hr {
 .overview-content {
   width: calc(50% - 20px);
   text-align: left;
-  margin-left: 2.5rem;
+  margin-left: 0rem;
+  margin-right: 2.5rem;
 }
 
 .overview-container {
@@ -276,8 +276,10 @@ hr {
 }
 
 .overview-container img {
-  max-width: 50%;
+  max-width: 75%;
   height: auto;
+  margin-left: 0rem;
+  margin-right: 0rem;
 }
 
 .steps-container {

@@ -4,7 +4,7 @@
 Lingua-Link is a peer-to-peer language learning mobile application that creates a safe and secure language exchange community. This app fosters meaningful conversation and cultural exchange between learners of different languages. 
 
 Additional Links:
-- Capstone Website
+- [Capstone Website](https://cwills07.github.io/linga-link/)
 - Capstone Presentation Deck
 
 # Summary of Research:

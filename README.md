@@ -29,13 +29,13 @@ Quotes:
 
 "It felt like I was learning vocabulary that wouldn't be used conversationally and not applicable if I were to go to the country"
 
-## SWOT Analysis of Duolingo and HelloTalk
+### SWOT Analysis of Duolingo and HelloTalk
 Duolingo is one of the most popular and dominant language learning platforms that focuses on gamification as the primary learning modality. Whereas HelloTalk is a global language learning app that focuses on peer-to-peer connections through chat, voice call, and video call modalities. Duolingo's weaknesses included limited explanations of grammar and cultural concepts. HelloTalk's weaknesses included growing user concerns about privacy and security as more restrictions and authorizations are needed in the app. 
 
-## User Validation of Key Concepts
+### User Validation of Key Concepts
 As we conducted more user interviews and usability testing of existing apps, our users highlighted the importance of structured learning environments, valued community features that allow users to connect with native speakers, as well as consistency and motivation. However, our users did report privacy and security related concerns and hesitations with connecting with strangers online. 
 
-## User Personas 
+### User Personas 
 <img width="1104" alt="image" src="https://github.com/cwills07/lingua-link/assets/114948546/90645fec-8345-4a90-bd07-d15185e34ef5">
 
 <img width="1104" alt="image" src="https://github.com/cwills07/lingua-link/assets/114948546/463dbc3a-2019-43a5-b932-1dbb7443cb5d">

@@ -5,7 +5,7 @@
 Lingua-Link is a peer-to-peer language learning mobile application that creates a safe and secure language exchange community. This app fosters meaningful conversation and cultural exchange between learners of different languages. 
 
 Additional Links:
-- Capstone Website: [https://cwills07.github.io/lingua-link/](https://cwills07.github.io/lingua-link/)
+- Capstone Website: https://cwills07.github.io/linga-link/
 - Capstone Presentation Deck
 - Final Prototype Link: https://www.figma.com/design/XCl5sOkAWiONGzEjBV1yW1/lingua-link-wirerames?node-id=8%3A4&t=NrDvYi14tlbYHi2u-1
 
@@ -59,3 +59,14 @@ Our research and design process informed the prototyping of the following key fe
    - Interactive progress tracking
 
 # Development Roadmap
+lingua-link's current project status is a design handoff available as open-source for any future capstone group to implement and code out the functionality. 
+
+###1. Optimize Matching: leveraging user feedback, refining the matching system
+- Develop algorithm that matches individuals based on aligned learning goals and interests
+
+   
+###2. Personalized Learning: Implement customizable flashcards and conversation topics based on user preferences
+
+   
+###3. Content and Security: Incorporate AI content moderation and user safety features into lingua-link
+- Flag and Block feature 

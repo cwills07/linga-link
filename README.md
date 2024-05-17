@@ -5,11 +5,11 @@
 Lingua-Link is a peer-to-peer language learning mobile application that creates a safe and secure language exchange community. This app fosters meaningful conversation and cultural exchange between learners of different languages. 
 
 Additional Links:
-- Capstone Website: https://cwills07.github.io/linga-link/
-- Capstone Presentation Deck
-- Final Prototype Link: https://www.figma.com/design/XCl5sOkAWiONGzEjBV1yW1/lingua-link-wirerames?node-id=8%3A4&t=NrDvYi14tlbYHi2u-1
+- [Capstone Website](https://cwills07.github.io/linga-link/)
+- [Capstone Presentation Deck](https://acrobat.adobe.com/id/urn:aaid:sc:us:89437343-e0fb-43e1-984e-7f25f75cf174)
+- [Final Prototype Link](https://www.figma.com/proto/XCl5sOkAWiONGzEjBV1yW1/lingua-link-wirerames?page-id=8%3A2&node-id=923-9899&viewport=25%2C200%2C0.02&t=lkriwO0hukM3pJuA-1&scaling=scale-down&starting-point-node-id=702%3A7703&show-proto-sidebar=1)
 
-# Summary of Research
+# Summary of Market and User Research
 We performed an extensive competitive analysis of the existing language learning market space:
 - Analyzing key features and aspects of Duolingo, HelloTalk, Babbel, and Busuu
 - Conducting usability testing of these existing apps to categorize challenges and benefits based on user needs

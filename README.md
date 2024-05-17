@@ -61,12 +61,12 @@ Our research and design process informed the prototyping of the following key fe
 # Development Roadmap
 lingua-link's current project status is a design handoff available as open-source for any future capstone group to implement and code out the functionality. 
 
-###1. Optimize Matching: leveraging user feedback, refining the matching system
+### Optimize Matching: leveraging user feedback, refining the matching system
 - Develop algorithm that matches individuals based on aligned learning goals and interests
 
    
-###2. Personalized Learning: Implement customizable flashcards and conversation topics based on user preferences
+### Personalized Learning: Implement customizable flashcards and conversation topics based on user preferences
 
    
-###3. Content and Security: Incorporate AI content moderation and user safety features into lingua-link
+### Content and Security: Incorporate AI content moderation and user safety features into lingua-link
 - Flag and Block feature 

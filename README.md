@@ -37,7 +37,7 @@ As we conducted more user interviews and usability testing of existing apps, our
 ## User Personas 
 <img width="1104" alt="image" src="https://github.com/cwills07/lingua-link/assets/114948546/90645fec-8345-4a90-bd07-d15185e34ef5">
 
-<img width="593" alt="image" src="https://github.com/cwills07/lingua-link/assets/114948546/463dbc3a-2019-43a5-b932-1dbb7443cb5d">
+<img width="1104" alt="image" src="https://github.com/cwills07/lingua-link/assets/114948546/463dbc3a-2019-43a5-b932-1dbb7443cb5d">
 
 # Feature Prototyping
 Our research and design process informed the prototyping of the following key features:

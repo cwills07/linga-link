@@ -63,10 +63,16 @@ lingua-link's current project status is a design handoff available as open-sourc
 
 ### Optimize Matching: leveraging user feedback, refining the matching system
 - Develop algorithm that matches individuals based on aligned learning goals and interests
-
+- Potential machine learning frameworks or models that could be helpful for finding similar individuals are k-means, divisive clustering, agglomerative clustering
+- Another approach could be to train classification models, such as decision trees or logistic regression, to identify whether a pair of users would be a strong match, okay match, or no match
+- scikit-learn package in Python is a great, easy-to-use, well documented machine learning package
    
 ### Personalized Learning: Implement customizable flashcards and conversation topics based on user preferences
-
+- Focus on developing the content and conversation topics in a particular language that you are most familiar with, i.e. learning Spanish or English
+- Research common everyday phrases for daily interactions, vocabulary, grammar, reading and writing
    
 ### Content and Security: Incorporate AI content moderation and user safety features into lingua-link
-- Flag and Block feature 
+- Flag and Block feature
+- Train AI model i.e. ChatGPT to monitor chat and filter out inappropriate language or messages that violate commmunity guidelines
+
+Since lingua-link is designed to be a mobile application, we recommend either iOS or android platform development. 
